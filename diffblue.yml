@@ -158,7 +158,6 @@ phases:
       # Add constraint that strings are printable
       string-printable: false
 units:
-units:
  - target:
    - dir: litemall-core/target/classes
      file: org/linlinjava/litemall/core/util/bcrypt/BCrypt.class
